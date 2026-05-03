@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Lebedev_Netology.sln"
+    "dotnet.defaultSolution": "LebedevS_GUN45.sln"
 }
