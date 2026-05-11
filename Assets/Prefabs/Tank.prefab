@@ -468,7 +468,7 @@ MonoBehaviour:
   _slipLimit: 0.3
   _reverseMult: 0.4
   _maxSpeedFOV: 200
-  _fov: {x: 40, y: 40}
+  _fov: {x: 40, y: 90}
   _debugTorque: 0
 --- !u!1 &1953514032537921034
 GameObject:
